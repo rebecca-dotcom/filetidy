@@ -2,7 +2,7 @@ name: Build Rust App
 
 on:
   push:
-    branches: [ main ]
+    branches: [ Main ]
   workflow_dispatch:
 
 jobs:
